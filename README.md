@@ -126,9 +126,13 @@ Promote top products & express shipping
 
 ## Business Impact
 
-✔ Strong loyal customer base✔ Stable average purchase value✔ High-performing product categories
+* Strong loyal customer base 
 
-#### ⚠ Areas of Improvement:
+* Stable average purchase value 
+
+* High-performing product categories
+
+####  Areas of Improvement:
 
 Subscription engagement
 
@@ -138,7 +142,7 @@ Discount dependency
 
 #### Overall Business Health: GOOD with strong growth potential
 
-🛠 Tools & Technologies
+*  Tools & Technologies
 
 SQL → Data Analysis & Insights
 
