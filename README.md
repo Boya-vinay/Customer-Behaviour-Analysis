@@ -151,6 +151,9 @@ This project demonstrates how data analysis can drive real-world business decisi
 
 By leveraging customer insights, businesses can improve revenue, retention, and overall growth strategy.
 
+## Dataset
+https://github.com/Boya-vinay/Customer-Behaviour-Analysis/blob/main/customer_shopping_behavior%20(2).csv
+
 ## Company Logo
 https://github.com/Boya-vinay/Customer-Behaviour-Analysis/commit/6ba6671455cd3c480eb421ba4e296663cb432fa8
 
